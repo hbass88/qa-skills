@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-07 07:29 KST",
- "total": 51,
+ "updated_at": "2026-09-08 08:04 KST",
+ "total": 50,
  "jobs": [
   {
    "company": "카카오",
@@ -411,6 +411,17 @@
    "verified": "2026-08-18"
   },
   {
+   "company": "하마랩",
+   "title": "QA Lead / 테스트 매니저 (경력)",
+   "experience": "5~10년",
+   "location": "경기 성남시",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/54964007",
+   "deadline": "2026-10-07",
+   "notes": "Confluence, Cypress, Jira, Playwright, Postman",
+   "work_type": "국내"
+  },
+  {
    "company": "인젠트",
    "title": "SQA Engineer 경력직 채용",
    "experience": "2~20년",
@@ -573,30 +584,6 @@
    "url": "https://jumpit.saramin.co.kr/position/54726695",
    "deadline": "2026-09-11",
    "notes": "AI CX 솔루션 제품 품질보증·테스트",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "하마랩",
-   "title": "QA Lead / 테스트 매니저",
-   "experience": "5~10년 (리드급)",
-   "location": "경기 성남시",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54682413",
-   "deadline": "2026-09-07",
-   "notes": "QA 조직 리드·테스트 전략/프로세스 총괄",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "컨트로맥스",
-   "title": "DO-178C S/W TEST & Verification Engineer",
-   "experience": "3~10년",
-   "location": "대전 유성구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54682563",
-   "deadline": "2026-09-07",
-   "notes": "항공 SW 인증표준(DO-178C) 테스트·검증 (근무지 대전)",
    "work_type": "국내",
    "verified": "2026-08-18"
   }
