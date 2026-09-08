@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-08 08:04 KST",
- "total": 50,
+ "updated_at": "2026-09-09 08:01 KST",
+ "total": 51,
  "jobs": [
   {
    "company": "카카오",
@@ -411,14 +411,14 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "하마랩",
-   "title": "QA Lead / 테스트 매니저 (경력)",
-   "experience": "5~10년",
-   "location": "경기 성남시",
+   "company": "프라이빗테크놀로지",
+   "title": "제품 QA 경력자 채용",
+   "experience": "3~7년",
+   "location": "서울 마포구",
    "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54964007",
+   "url": "https://jumpit.saramin.co.kr/position/54979027",
    "deadline": "2026-10-07",
-   "notes": "Confluence, Cypress, Jira, Playwright, Postman",
+   "notes": "Debian, iOS, Linux, macOS, Ubuntu",
    "work_type": "국내"
   },
   {
@@ -519,6 +519,17 @@
    "deadline": "미표기",
    "notes": "2026-08-26 게재",
    "work_type": "리모트"
+  },
+  {
+   "company": "하마랩",
+   "title": "QA Lead / 테스트 매니저 (경력)",
+   "experience": "5~10년",
+   "location": "경기 성남시",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/54964007",
+   "deadline": "2026-10-07",
+   "notes": "Confluence, Cypress, Jira, Playwright, Postman",
+   "work_type": "국내"
   },
   {
    "company": "Coupang",
