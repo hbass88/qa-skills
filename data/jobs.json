@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-09 08:01 KST",
- "total": 51,
+ "updated_at": "2026-09-10 07:48 KST",
+ "total": 50,
  "jobs": [
   {
    "company": "카카오",
@@ -267,18 +267,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "긴트",
-   "title": "시뮬레이션·검증 엔지니어",
-   "experience": "1~5년",
-   "location": "경기 성남시 분당구",
-   "source": "사람인",
-   "url": "https://jumpit.saramin.co.kr/position/54711940",
-   "deadline": "2026-09-09",
-   "notes": "자율주행 농기계 SW의 시뮬레이션 기반 검증/테스트",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
    "company": "이지식스 (TADA)",
    "title": "QA Engineer",
    "experience": "5년 이하",
@@ -411,17 +399,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "프라이빗테크놀로지",
-   "title": "제품 QA 경력자 채용",
-   "experience": "3~7년",
-   "location": "서울 마포구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54979027",
-   "deadline": "2026-10-07",
-   "notes": "Debian, iOS, Linux, macOS, Ubuntu",
-   "work_type": "국내"
-  },
-  {
    "company": "인젠트",
    "title": "SQA Engineer 경력직 채용",
    "experience": "2~20년",
@@ -519,6 +496,17 @@
    "deadline": "미표기",
    "notes": "2026-08-26 게재",
    "work_type": "리모트"
+  },
+  {
+   "company": "프라이빗테크놀로지",
+   "title": "제품 QA 경력자 채용",
+   "experience": "3~7년",
+   "location": "서울 마포구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/54979027",
+   "deadline": "2026-10-07",
+   "notes": "Debian, iOS, Linux, macOS, Ubuntu",
+   "work_type": "국내"
   },
   {
    "company": "하마랩",
