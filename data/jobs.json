@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12 07:50 KST",
+ "updated_at": "2026-09-13 07:41 KST",
  "total": 50,
  "jobs": [
   {
@@ -399,17 +399,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "플래티어",
-   "title": "[AI CX사업부문] QA 엔지니어",
-   "experience": "3~6년",
-   "location": "서울 송파구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/55011605",
-   "deadline": "2026-10-11",
-   "notes": "DBeaver, GitHub, MongoDB, Playwright, Postman",
-   "work_type": "국내"
-  },
-  {
    "company": "인젠트",
    "title": "SQA Engineer 경력직 채용",
    "experience": "2~20년",
@@ -429,6 +418,39 @@
    "url": "https://careers.kakao.com/jobs/S-4732",
    "deadline": "상시",
    "notes": "카카오 공식 채용 API 수집",
+   "work_type": "국내"
+  },
+  {
+   "company": "Kraftonindia",
+   "title": "Publishing QA",
+   "experience": "공고 참조",
+   "location": "Bengaluru",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/kraftonindia/jobs/8627714002",
+   "deadline": "상시",
+   "notes": "2026-08-28 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Lemon.io",
+   "title": "Senior QA Engineer",
+   "experience": "공고 참조",
+   "location": "Europe",
+   "source": "Remotive",
+   "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
+   "deadline": "미표기",
+   "notes": "2026-08-26 게재",
+   "work_type": "리모트"
+  },
+  {
+   "company": "플래티어",
+   "title": "[AI CX사업부문] QA 엔지니어",
+   "experience": "3~6년",
+   "location": "서울 송파구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/55011605",
+   "deadline": "2026-10-11",
+   "notes": "DBeaver, GitHub, MongoDB, Playwright, Postman",
    "work_type": "국내"
   },
   {
@@ -485,28 +507,6 @@
    "deadline": "상시",
    "notes": "2026-07-26 업데이트",
    "work_type": "국내"
-  },
-  {
-   "company": "Kraftonindia",
-   "title": "Publishing QA",
-   "experience": "공고 참조",
-   "location": "Bengaluru",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/kraftonindia/jobs/8627714002",
-   "deadline": "상시",
-   "notes": "2026-08-28 업데이트",
-   "work_type": "해외"
-  },
-  {
-   "company": "Lemon.io",
-   "title": "Senior QA Engineer",
-   "experience": "공고 참조",
-   "location": "Europe",
-   "source": "Remotive",
-   "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
-   "deadline": "미표기",
-   "notes": "2026-08-26 게재",
-   "work_type": "리모트"
   },
   {
    "company": "프라이빗테크놀로지",
