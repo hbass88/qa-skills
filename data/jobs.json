@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-14 07:41 KST",
- "total": 50,
+ "updated_at": "2026-09-15 08:32 KST",
+ "total": 51,
  "jobs": [
   {
    "company": "카카오",
@@ -433,17 +433,6 @@
   },
   {
    "company": "Coupang",
-   "title": "(Customer Service) QA Manager",
-   "experience": "공고 참조",
-   "location": "Taipei, Taiwan",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8123930",
-   "deadline": "상시",
-   "notes": "2026-09-04 업데이트",
-   "work_type": "해외"
-  },
-  {
-   "company": "Coupang",
    "title": "Manager, Quality Assurance (IPO)",
    "experience": "공고 참조",
    "location": "Taipei, Taiwan",
@@ -451,6 +440,17 @@
    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7546886",
    "deadline": "상시",
    "notes": "2026-07-31 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
+   "title": "Project Assistance Specialist - CX Auditor QA(TW)",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8194502",
+   "deadline": "상시",
+   "notes": "2026-09-14 업데이트",
    "work_type": "해외"
   },
   {
@@ -496,6 +496,17 @@
    "deadline": "미표기",
    "notes": "2026-08-26 게재",
    "work_type": "리모트"
+  },
+  {
+   "company": "Coupang",
+   "title": "(Customer Service) QA Manager",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8123930",
+   "deadline": "상시",
+   "notes": "2026-09-04 업데이트",
+   "work_type": "해외"
   },
   {
    "company": "플래티어",
