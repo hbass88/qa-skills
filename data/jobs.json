@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-15 08:32 KST",
- "total": 51,
+ "updated_at": "2026-09-16 08:14 KST",
+ "total": 53,
  "jobs": [
   {
    "company": "카카오",
@@ -433,6 +433,17 @@
   },
   {
    "company": "Coupang",
+   "title": "[쿠팡] 커머스 라이브/콘텐츠 품질관리팀 매니저(Live Quality Assurance)",
+   "experience": "공고 참조",
+   "location": "Seoul, South Korea",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8203197",
+   "deadline": "상시",
+   "notes": "2026-09-15 업데이트",
+   "work_type": "국내"
+  },
+  {
+   "company": "Coupang",
    "title": "Manager, Quality Assurance (IPO)",
    "experience": "공고 참조",
    "location": "Taipei, Taiwan",
@@ -495,6 +506,17 @@
    "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
    "deadline": "미표기",
    "notes": "2026-08-26 게재",
+   "work_type": "리모트"
+  },
+  {
+   "company": "Proxify AB",
+   "title": "Senior QA Automation Engineer",
+   "experience": "공고 참조",
+   "location": "풀리모트 (Anywhere in the World)",
+   "source": "WeWorkRemotely",
+   "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-qa-automation-engineer",
+   "deadline": "미표기",
+   "notes": "",
    "work_type": "리모트"
   },
   {
