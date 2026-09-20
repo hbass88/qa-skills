@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-20 07:32 KST",
- "total": 51,
+ "updated_at": "2026-09-21 07:45 KST",
+ "total": 50,
  "jobs": [
   {
    "company": "카카오",
@@ -251,18 +251,6 @@
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=54547598",
    "deadline": "상시",
    "notes": "글로벌 B2B SaaS(Shopl) 협업툴 QA",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "수산아이앤티",
-   "title": "[수산그룹] 개발직군 채용 (QA엔지니어 포함)",
-   "experience": "신입·경력",
-   "location": "서울",
-   "source": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=53930400",
-   "deadline": "2026-09-20",
-   "notes": "수산그룹 IT계열사 부문별 공채, QA엔지니어 직군 포함",
    "work_type": "국내",
    "verified": "2026-08-18"
   },
