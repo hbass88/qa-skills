@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-22 08:42 KST",
- "total": 50,
+ "updated_at": "2026-09-23 08:19 KST",
+ "total": 53,
  "jobs": [
   {
    "company": "카카오",
@@ -387,6 +387,17 @@
    "verified": "2026-08-18"
   },
   {
+   "company": "프라이빗테크놀로지",
+   "title": "제품 QA 경력자 채용",
+   "experience": "3~7년",
+   "location": "서울 마포구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/54979027",
+   "deadline": "2026-10-07",
+   "notes": "Debian, iOS, Linux, macOS, Ubuntu",
+   "work_type": "국내"
+  },
+  {
    "company": "kakao mobility",
    "title": "[공동체] 카카오모빌리티 QA 엔지니어",
    "experience": "-",
@@ -395,6 +406,28 @@
    "url": "https://careers.kakao.com/jobs/S-4732",
    "deadline": "상시",
    "notes": "카카오 공식 채용 API 수집",
+   "work_type": "국내"
+  },
+  {
+   "company": "Coupang",
+   "title": "Assistant Manager, Quality Assurance (IP Operations - Shift) / IP Operations 輪班副理",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/7546937",
+   "deadline": "상시",
+   "notes": "2026-09-21 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
+   "title": "[CPLB] Senior QA Specialist (Fashion Technical Services) (Contract)",
+   "experience": "공고 참조",
+   "location": "Seoul, South Korea",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/8222269",
+   "deadline": "상시",
+   "notes": "2026-09-22 업데이트",
    "work_type": "국내"
   },
   {
@@ -454,13 +487,13 @@
   },
   {
    "company": "Coupang",
-   "title": "Staff QA Engineer [EE Excellence]",
+   "title": "Senior QA Engineer (Advertiser Platform)",
    "experience": "공고 참조",
-   "location": "South Korea",
+   "location": "Seoul, South Korea",
    "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7992225",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/8222455",
    "deadline": "상시",
-   "notes": "2026-07-26 업데이트",
+   "notes": "2026-09-22 업데이트",
    "work_type": "국내"
   },
   {
@@ -484,6 +517,17 @@
    "deadline": "미표기",
    "notes": "2026-08-26 게재",
    "work_type": "리모트"
+  },
+  {
+   "company": "Coupang",
+   "title": "Staff QA Engineer [EE Excellence]",
+   "experience": "공고 참조",
+   "location": "South Korea",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7992225",
+   "deadline": "상시",
+   "notes": "2026-07-26 업데이트",
+   "work_type": "국내"
   },
   {
    "company": "Proxify AB",
@@ -527,17 +571,6 @@
    "url": "https://jumpit.saramin.co.kr/position/55011605",
    "deadline": "2026-10-11",
    "notes": "DBeaver, GitHub, MongoDB, Playwright, Postman",
-   "work_type": "국내"
-  },
-  {
-   "company": "프라이빗테크놀로지",
-   "title": "제품 QA 경력자 채용",
-   "experience": "3~7년",
-   "location": "서울 마포구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54979027",
-   "deadline": "2026-10-07",
-   "notes": "Debian, iOS, Linux, macOS, Ubuntu",
    "work_type": "국내"
   },
   {
