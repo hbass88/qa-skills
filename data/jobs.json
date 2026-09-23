@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-23 08:19 KST",
- "total": 53,
+ "updated_at": "2026-09-24 08:15 KST",
+ "total": 54,
  "jobs": [
   {
    "company": "카카오",
@@ -387,17 +387,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "프라이빗테크놀로지",
-   "title": "제품 QA 경력자 채용",
-   "experience": "3~7년",
-   "location": "서울 마포구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54979027",
-   "deadline": "2026-10-07",
-   "notes": "Debian, iOS, Linux, macOS, Ubuntu",
-   "work_type": "국내"
-  },
-  {
    "company": "kakao mobility",
    "title": "[공동체] 카카오모빌리티 QA 엔지니어",
    "experience": "-",
@@ -508,6 +497,17 @@
    "work_type": "해외"
   },
   {
+   "company": "Moloco",
+   "title": "QA Engineer (1-Year Contract)",
+   "experience": "공고 참조",
+   "location": "Seoul, Korea",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
+   "deadline": "상시",
+   "notes": "2026-09-22 업데이트",
+   "work_type": "국내"
+  },
+  {
    "company": "Lemon.io",
    "title": "Senior QA Engineer",
    "experience": "공고 참조",
@@ -517,6 +517,17 @@
    "deadline": "미표기",
    "notes": "2026-08-26 게재",
    "work_type": "리모트"
+  },
+  {
+   "company": "프라이빗테크놀로지",
+   "title": "제품 QA 경력자 채용",
+   "experience": "3~7년",
+   "location": "서울 마포구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/54979027",
+   "deadline": "2026-10-07",
+   "notes": "Debian, iOS, Linux, macOS, Ubuntu",
+   "work_type": "국내"
   },
   {
    "company": "Coupang",
