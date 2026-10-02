@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-01 09:13 KST",
- "total": 54,
+ "updated_at": "2026-10-02 09:17 KST",
+ "total": 55,
  "jobs": [
   {
    "company": "카카오",
@@ -387,6 +387,17 @@
    "verified": "2026-08-18"
   },
   {
+   "company": "채비",
+   "title": "SW품질 보증 엔지니어",
+   "experience": "3~10년",
+   "location": "대구 수성구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/55178894",
+   "deadline": "2026-10-31",
+   "notes": "C#, Windows, WPF, SW",
+   "work_type": "국내"
+  },
+  {
    "company": "kakao mobility",
    "title": "[공동체] 카카오모빌리티 QA 엔지니어",
    "experience": "-",
@@ -399,24 +410,13 @@
   },
   {
    "company": "Coupang",
-   "title": "Assistant Manager, Quality Assurance (IP Operations - Shift) / IP Operations 輪班副理",
-   "experience": "공고 참조",
-   "location": "Taipei, Taiwan",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/7546937",
-   "deadline": "상시",
-   "notes": "2026-09-30 업데이트",
-   "work_type": "해외"
-  },
-  {
-   "company": "Coupang",
    "title": "[CPLB] Senior QA Specialist (Fashion Technical Services) (Contract)",
    "experience": "공고 참조",
    "location": "Seoul, South Korea",
    "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8222269",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8222269",
    "deadline": "상시",
-   "notes": "2026-09-30 업데이트",
+   "notes": "2026-10-01 업데이트",
    "work_type": "국내"
   },
   {
@@ -425,21 +425,10 @@
    "experience": "공고 참조",
    "location": "Taipei, Taiwan",
    "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8166212",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8166212",
    "deadline": "상시",
-   "notes": "2026-09-30 업데이트",
+   "notes": "2026-10-01 업데이트",
    "work_type": "해외"
-  },
-  {
-   "company": "Coupang",
-   "title": "[쿠팡] 커머스 라이브/콘텐츠 품질관리팀 매니저(Live Quality Assurance)",
-   "experience": "공고 참조",
-   "location": "Seoul, South Korea",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8203197",
-   "deadline": "상시",
-   "notes": "2026-09-30 업데이트",
-   "work_type": "국내"
   },
   {
    "company": "Coupang",
@@ -447,9 +436,9 @@
    "experience": "공고 참조",
    "location": "Taipei, Taiwan",
    "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/7546886",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7546886",
    "deadline": "상시",
-   "notes": "2026-09-30 업데이트",
+   "notes": "2026-10-01 업데이트",
    "work_type": "해외"
   },
   {
@@ -458,9 +447,9 @@
    "experience": "공고 참조",
    "location": "Taipei, Taiwan",
    "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8194502",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8194502",
    "deadline": "상시",
-   "notes": "2026-09-30 업데이트",
+   "notes": "2026-10-01 업데이트",
    "work_type": "해외"
   },
   {
@@ -469,9 +458,9 @@
    "experience": "공고 참조",
    "location": "Taipei, Taiwan",
    "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8161024",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8161024",
    "deadline": "상시",
-   "notes": "2026-09-30 업데이트",
+   "notes": "2026-10-01 업데이트",
    "work_type": "해외"
   },
   {
@@ -480,9 +469,9 @@
    "experience": "공고 참조",
    "location": "Seoul, South Korea",
    "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8222455",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8222455",
    "deadline": "상시",
-   "notes": "2026-09-30 업데이트",
+   "notes": "2026-10-01 업데이트",
    "work_type": "국내"
   },
   {
@@ -505,6 +494,28 @@
    "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
    "deadline": "상시",
    "notes": "2026-09-22 업데이트",
+   "work_type": "국내"
+  },
+  {
+   "company": "Coupang",
+   "title": "Assistant Manager, Quality Assurance (IP Operations - Shift) / IP Operations 輪班副理",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/7546937",
+   "deadline": "상시",
+   "notes": "2026-09-30 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
+   "title": "[쿠팡] 커머스 라이브/콘텐츠 품질관리팀 매니저(Live Quality Assurance)",
+   "experience": "공고 참조",
+   "location": "Seoul, South Korea",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/8203197",
+   "deadline": "상시",
+   "notes": "2026-09-30 업데이트",
    "work_type": "국내"
   },
   {
