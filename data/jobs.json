@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02 09:17 KST",
+ "updated_at": "2026-10-03 09:02 KST",
  "total": 55,
  "jobs": [
   {
@@ -387,17 +387,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "채비",
-   "title": "SW품질 보증 엔지니어",
-   "experience": "3~10년",
-   "location": "대구 수성구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/55178894",
-   "deadline": "2026-10-31",
-   "notes": "C#, Windows, WPF, SW",
-   "work_type": "국내"
-  },
-  {
    "company": "kakao mobility",
    "title": "[공동체] 카카오모빌리티 QA 엔지니어",
    "experience": "-",
@@ -494,6 +483,17 @@
    "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
    "deadline": "상시",
    "notes": "2026-09-22 업데이트",
+   "work_type": "국내"
+  },
+  {
+   "company": "채비",
+   "title": "SW품질 보증 엔지니어",
+   "experience": "3~10년",
+   "location": "대구 수성구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/55178894",
+   "deadline": "2026-10-31",
+   "notes": "C#, Windows, WPF, SW",
    "work_type": "국내"
   },
   {
