@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12 09:02 KST",
+ "updated_at": "2026-10-13 11:16 KST",
  "total": 56,
  "jobs": [
   {
@@ -387,17 +387,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "플래티어",
-   "title": "[AI CX사업부문] QA 엔지니어",
-   "experience": "3~6년",
-   "location": "서울 송파구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/55237855",
-   "deadline": "2026-11-10",
-   "notes": "DBeaver, GitHub, MongoDB, Playwright, Postman",
-   "work_type": "국내"
-  },
-  {
    "company": "kakao mobility",
    "title": "[공동체] 카카오모빌리티 QA 엔지니어",
    "experience": "-",
@@ -461,6 +450,17 @@
    "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
    "deadline": "상시",
    "notes": "2026-10-08 업데이트",
+   "work_type": "국내"
+  },
+  {
+   "company": "플래티어",
+   "title": "[AI CX사업부문] QA 엔지니어",
+   "experience": "3~6년",
+   "location": "서울 송파구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/55237855",
+   "deadline": "2026-11-10",
+   "notes": "DBeaver, GitHub, MongoDB, Playwright, Postman",
    "work_type": "국내"
   },
   {
