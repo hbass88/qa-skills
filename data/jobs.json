@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16 08:21 KST",
+ "updated_at": "2026-10-17 08:04 KST",
  "total": 57,
  "jobs": [
   {
@@ -387,14 +387,14 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "핀다",
-   "title": "QA 엔지니어",
-   "experience": "4~7년",
-   "location": "서울 강남구",
+   "company": "우리엔",
+   "title": "[중견 계열사] QA 엔지니어(계약직)",
+   "experience": "5~10년",
+   "location": "경기 화성시",
    "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/55299042",
-   "deadline": "2026-11-14",
-   "notes": "Confluence, Figma, Jira, Postman, Python",
+   "url": "https://jumpit.saramin.co.kr/position/55299837",
+   "deadline": "2026-11-15",
+   "notes": "Amazon EMR, Jira, MSSQL, MySQL, Playwright",
    "work_type": "국내"
   },
   {
@@ -461,6 +461,17 @@
    "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
    "deadline": "상시",
    "notes": "2026-10-08 업데이트",
+   "work_type": "국내"
+  },
+  {
+   "company": "핀다",
+   "title": "QA 엔지니어",
+   "experience": "4~7년",
+   "location": "서울 강남구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/55299042",
+   "deadline": "2026-11-14",
+   "notes": "Confluence, Figma, Jira, Postman, Python",
    "work_type": "국내"
   },
   {
@@ -605,17 +616,6 @@
    "deadline": "미표기",
    "notes": "",
    "work_type": "리모트"
-  },
-  {
-   "company": "우리엔",
-   "title": "[중견 계열사] QA 엔지니어(계약직)",
-   "experience": "5~10년",
-   "location": "경기 화성시",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/55051428",
-   "deadline": "2026-10-16",
-   "notes": "Amazon EMR, Jira, MSSQL, MySQL, Playwright",
-   "work_type": "국내"
   },
   {
    "company": "Coupang",
