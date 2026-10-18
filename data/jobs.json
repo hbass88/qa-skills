@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-18 07:44 KST",
- "total": 57,
+ "updated_at": "2026-10-19 07:39 KST",
+ "total": 56,
  "jobs": [
   {
    "company": "카카오",
@@ -227,18 +227,6 @@
    "url": "https://career.rememberapp.co.kr/job/posting/319338",
    "deadline": "채용 시 마감",
    "notes": "AWS·Java 환경 최종 검수, 오프쇼어 산출물 검증 포함, ISTQB 우대",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "111퍼센트",
-   "title": "게임 QA",
-   "experience": "1~3년",
-   "location": "서울",
-   "source": "잡플래닛",
-   "url": "https://www.jobplanet.co.kr/job/search?posting_ids%5B%5D=1491893",
-   "deadline": "2026-10-18",
-   "notes": "'운빨존많겜' 개발사의 게임 QA 주니어 포지션",
    "work_type": "국내",
    "verified": "2026-08-18"
   },
