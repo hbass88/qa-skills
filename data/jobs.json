@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19 07:39 KST",
+ "updated_at": "2026-10-20 08:59 KST",
  "total": 56,
  "jobs": [
   {
@@ -375,17 +375,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "우리엔",
-   "title": "[중견 계열사] QA 엔지니어(계약직)",
-   "experience": "5~10년",
-   "location": "경기 화성시",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/55299837",
-   "deadline": "2026-11-15",
-   "notes": "Amazon EMR, Jira, MSSQL, MySQL, Playwright",
-   "work_type": "국내"
-  },
-  {
    "company": "kakao mobility",
    "title": "[공동체] 카카오모빌리티 QA 엔지니어",
    "experience": "-",
@@ -449,6 +438,28 @@
    "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
    "deadline": "상시",
    "notes": "2026-10-08 업데이트",
+   "work_type": "국내"
+  },
+  {
+   "company": "Proxify AB",
+   "title": "Senior QA Automation Engineer",
+   "experience": "공고 참조",
+   "location": "풀리모트 (Anywhere in the World)",
+   "source": "WeWorkRemotely",
+   "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-qa-automation-engineer-1",
+   "deadline": "미표기",
+   "notes": "",
+   "work_type": "리모트"
+  },
+  {
+   "company": "우리엔",
+   "title": "[중견 계열사] QA 엔지니어(계약직)",
+   "experience": "5~10년",
+   "location": "경기 화성시",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/55299837",
+   "deadline": "2026-11-15",
+   "notes": "Amazon EMR, Jira, MSSQL, MySQL, Playwright",
    "work_type": "국내"
   },
   {
@@ -593,17 +604,6 @@
    "deadline": "상시",
    "notes": "2026-07-26 업데이트",
    "work_type": "국내"
-  },
-  {
-   "company": "Proxify AB",
-   "title": "Senior QA Automation Engineer",
-   "experience": "공고 참조",
-   "location": "풀리모트 (Anywhere in the World)",
-   "source": "WeWorkRemotely",
-   "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-qa-automation-engineer",
-   "deadline": "미표기",
-   "notes": "",
-   "work_type": "리모트"
   },
   {
    "company": "Coupang",
