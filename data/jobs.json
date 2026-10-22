@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-22 08:45 KST",
- "total": 56,
+ "updated_at": "2026-10-23 08:42 KST",
+ "total": 57,
  "jobs": [
   {
    "company": "카카오",
@@ -373,6 +373,17 @@
    "notes": "아시아·유럽 분산 팀의 Playwright 기반 QA 자동화",
    "work_type": "리모트",
    "verified": "2026-08-18"
+  },
+  {
+   "company": "팬딩",
+   "title": "QA 엔지니어",
+   "experience": "3~7년",
+   "location": "서울 강남구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/55357060",
+   "deadline": "2026-11-21",
+   "notes": "QA, SW, Infra",
+   "work_type": "국내"
   },
   {
    "company": "kakao mobility",
