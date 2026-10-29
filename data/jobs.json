@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-28 09:07 KST",
- "total": 58,
+ "updated_at": "2026-10-29 09:28 KST",
+ "total": 59,
  "jobs": [
   {
    "company": "카카오",
@@ -409,6 +409,28 @@
   },
   {
    "company": "Coupang",
+   "title": "Senior Customer Service Quality Assurance Specialist",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317393",
+   "deadline": "상시",
+   "notes": "2026-10-28 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
+   "title": "Senior Manager, CS QA & Performance Management",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317551",
+   "deadline": "상시",
+   "notes": "2026-10-28 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
    "title": "Senior QA Engineer (Advertiser Platform)",
    "experience": "공고 참조",
    "location": "Seoul, South Korea",
@@ -557,17 +579,6 @@
    "location": "Taipei, Taiwan",
    "source": "기업 채용페이지 (Greenhouse)",
    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7546886",
-   "deadline": "상시",
-   "notes": "2026-10-01 업데이트",
-   "work_type": "해외"
-  },
-  {
-   "company": "Coupang",
-   "title": "Senior Customer Service Quality Assurance Specialist",
-   "experience": "공고 참조",
-   "location": "Taipei, Taiwan",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8161024",
    "deadline": "상시",
    "notes": "2026-10-01 업데이트",
    "work_type": "해외"
