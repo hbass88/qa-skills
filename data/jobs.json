@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-31 09:12 KST",
- "total": 59,
+ "updated_at": "2026-11-01 08:49 KST",
+ "total": 58,
  "jobs": [
   {
    "company": "카카오",
@@ -582,17 +582,6 @@
    "deadline": "상시",
    "notes": "2026-10-01 업데이트",
    "work_type": "해외"
-  },
-  {
-   "company": "채비",
-   "title": "SW품질 보증 엔지니어",
-   "experience": "3~10년",
-   "location": "대구 수성구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/55178894",
-   "deadline": "2026-10-31",
-   "notes": "C#, Windows, WPF, SW",
-   "work_type": "국내"
   },
   {
    "company": "Coupang",
