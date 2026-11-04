@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03 11:41 KST",
+ "updated_at": "2026-11-04 09:56 KST",
  "total": 59,
  "jobs": [
   {
@@ -375,17 +375,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "쓰리아이",
-   "title": "QA 엔지니어 (Pivo 앱·웹·HW 연동)",
-   "experience": "3~8년",
-   "location": "서울 강남구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/55467556",
-   "deadline": "2026-12-02",
-   "notes": "Android OS, Confluence, Crashlytics, iOS, Jira",
-   "work_type": "국내"
-  },
-  {
    "company": "kakao mobility",
    "title": "[공동체] 카카오모빌리티 QA 엔지니어",
    "experience": "-",
@@ -449,6 +438,17 @@
    "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
    "deadline": "상시",
    "notes": "2026-10-08 업데이트",
+   "work_type": "국내"
+  },
+  {
+   "company": "쓰리아이",
+   "title": "QA 엔지니어 (Pivo 앱·웹·HW 연동)",
+   "experience": "3~8년",
+   "location": "서울 강남구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/55467556",
+   "deadline": "2026-12-02",
+   "notes": "Android OS, Confluence, Crashlytics, iOS, Jira",
    "work_type": "국내"
   },
   {
