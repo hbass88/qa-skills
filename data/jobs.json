@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04 09:56 KST",
+ "updated_at": "2026-11-05 10:06 KST",
  "total": 59,
  "jobs": [
   {
@@ -387,24 +387,13 @@
   },
   {
    "company": "Coupang",
-   "title": "[CPLB] Senior QA Specialist (Fashion Technical Services) (Contract)",
-   "experience": "공고 참조",
-   "location": "Seoul, South Korea",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8222269",
-   "deadline": "상시",
-   "notes": "2026-10-30 업데이트",
-   "work_type": "국내"
-  },
-  {
-   "company": "Coupang",
    "title": "Senior Customer Service Quality Assurance Specialist",
    "experience": "공고 참조",
    "location": "Taipei, Taiwan",
    "source": "기업 채용페이지 (Greenhouse)",
    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317393",
    "deadline": "상시",
-   "notes": "2026-10-30 업데이트",
+   "notes": "2026-11-03 업데이트",
    "work_type": "해외"
   },
   {
@@ -415,7 +404,7 @@
    "source": "기업 채용페이지 (Greenhouse)",
    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317551",
    "deadline": "상시",
-   "notes": "2026-10-30 업데이트",
+   "notes": "2026-11-03 업데이트",
    "work_type": "해외"
   },
   {
@@ -438,6 +427,17 @@
    "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
    "deadline": "상시",
    "notes": "2026-10-08 업데이트",
+   "work_type": "국내"
+  },
+  {
+   "company": "Coupang",
+   "title": "[CPLB] Senior QA Specialist (Fashion Technical Services) (Contract)",
+   "experience": "공고 참조",
+   "location": "Seoul, South Korea",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8222269",
+   "deadline": "상시",
+   "notes": "2026-10-30 업데이트",
    "work_type": "국내"
   },
   {
