@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08 09:02 KST",
+ "updated_at": "2026-11-09 09:10 KST",
  "total": 118,
  "jobs": [
   {
@@ -373,6 +373,61 @@
    "notes": "아시아·유럽 분산 팀의 Playwright 기반 QA 자동화",
    "work_type": "리모트",
    "verified": "2026-08-18"
+  },
+  {
+   "company": "kakao mobility",
+   "title": "[공동체] 카카오모빌리티 QA 엔지니어",
+   "experience": "-",
+   "location": "판교",
+   "source": "기업 채용페이지",
+   "url": "https://careers.kakao.com/jobs/S-4732",
+   "deadline": "상시",
+   "notes": "카카오 공식 채용 API 수집",
+   "work_type": "국내"
+  },
+  {
+   "company": "Coupang",
+   "title": "Senior Customer Service Quality Assurance Specialist",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317393",
+   "deadline": "상시",
+   "notes": "2026-11-03 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
+   "title": "Senior Manager, CS QA & Performance Management",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317551",
+   "deadline": "상시",
+   "notes": "2026-11-03 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Kraftonindia",
+   "title": "Publishing QA",
+   "experience": "공고 참조",
+   "location": "Bengaluru",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/kraftonindia/jobs/8627714002",
+   "deadline": "상시",
+   "notes": "2026-10-30 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Moloco",
+   "title": "QA Engineer (1-Year Contract)",
+   "experience": "공고 참조",
+   "location": "Seoul, Korea",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
+   "deadline": "상시",
+   "notes": "2026-10-08 업데이트",
+   "work_type": "국내"
   },
   {
    "company": "우리엔",
@@ -1032,61 +1087,6 @@
    "url": "https://www.wanted.co.kr/wd/142217",
    "deadline": "상시",
    "notes": "",
-   "work_type": "국내"
-  },
-  {
-   "company": "kakao mobility",
-   "title": "[공동체] 카카오모빌리티 QA 엔지니어",
-   "experience": "-",
-   "location": "판교",
-   "source": "기업 채용페이지",
-   "url": "https://careers.kakao.com/jobs/S-4732",
-   "deadline": "상시",
-   "notes": "카카오 공식 채용 API 수집",
-   "work_type": "국내"
-  },
-  {
-   "company": "Coupang",
-   "title": "Senior Customer Service Quality Assurance Specialist",
-   "experience": "공고 참조",
-   "location": "Taipei, Taiwan",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317393",
-   "deadline": "상시",
-   "notes": "2026-11-03 업데이트",
-   "work_type": "해외"
-  },
-  {
-   "company": "Coupang",
-   "title": "Senior Manager, CS QA & Performance Management",
-   "experience": "공고 참조",
-   "location": "Taipei, Taiwan",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317551",
-   "deadline": "상시",
-   "notes": "2026-11-03 업데이트",
-   "work_type": "해외"
-  },
-  {
-   "company": "Kraftonindia",
-   "title": "Publishing QA",
-   "experience": "공고 참조",
-   "location": "Bengaluru",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/kraftonindia/jobs/8627714002",
-   "deadline": "상시",
-   "notes": "2026-10-30 업데이트",
-   "work_type": "해외"
-  },
-  {
-   "company": "Moloco",
-   "title": "QA Engineer (1-Year Contract)",
-   "experience": "공고 참조",
-   "location": "Seoul, Korea",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
-   "deadline": "상시",
-   "notes": "2026-10-08 업데이트",
    "work_type": "국내"
   },
   {
