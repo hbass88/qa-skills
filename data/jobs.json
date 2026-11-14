@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-13 10:32 KST",
- "total": 118,
+ "updated_at": "2026-11-14 10:05 KST",
+ "total": 116,
  "jobs": [
   {
    "company": "카카오",
@@ -767,28 +767,6 @@
    "source": "Wanted",
    "url": "https://www.wanted.co.kr/wd/388357",
    "deadline": "상시",
-   "notes": "",
-   "work_type": "국내"
-  },
-  {
-   "company": "벳칭",
-   "title": "QA Engineer - 시니어(리드)",
-   "experience": "공고 참조",
-   "location": "서울",
-   "source": "Wanted",
-   "url": "https://www.wanted.co.kr/wd/386985",
-   "deadline": "2026-11-13",
-   "notes": "",
-   "work_type": "국내"
-  },
-  {
-   "company": "벳칭",
-   "title": "QA Engineer - 주니어(매니저)",
-   "experience": "공고 참조",
-   "location": "서울",
-   "source": "Wanted",
-   "url": "https://www.wanted.co.kr/wd/386975",
-   "deadline": "2026-11-13",
    "notes": "",
    "work_type": "국내"
   },
