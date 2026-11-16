@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15 09:27 KST",
+ "updated_at": "2026-11-16 09:27 KST",
  "total": 115,
  "jobs": [
   {
@@ -375,6 +375,17 @@
    "verified": "2026-08-18"
   },
   {
+   "company": "우리엔",
+   "title": "[중견 계열사] QA 엔지니어(계약직)",
+   "experience": "3~10년",
+   "location": "경기 화성시",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/55563439",
+   "deadline": "2026-12-15",
+   "notes": "Amazon EMR, Jira, MSSQL, MySQL, Playwright",
+   "work_type": "국내"
+  },
+  {
    "company": "kakao mobility",
    "title": "[공동체] 카카오모빌리티 QA 엔지니어",
    "experience": "-",
@@ -417,6 +428,17 @@
    "deadline": "상시",
    "notes": "2026-10-08 업데이트",
    "work_type": "국내"
+  },
+  {
+   "company": "Come and See",
+   "title": "QA Automation Engineer",
+   "experience": "공고 참조",
+   "location": "풀리모트 (USA Only)",
+   "source": "WeWorkRemotely",
+   "url": "https://weworkremotely.com/remote-jobs/come-and-see-qa-automation-engineer",
+   "deadline": "미표기",
+   "notes": "",
+   "work_type": "리모트"
   },
   {
    "company": "플래티어",
@@ -525,17 +547,6 @@
    "source": "Wanted",
    "url": "https://www.wanted.co.kr/wd/395707",
    "deadline": "2026-11-29",
-   "notes": "",
-   "work_type": "국내"
-  },
-  {
-   "company": "엔카닷컴",
-   "title": "QA Engineer (5~10년)",
-   "experience": "공고 참조",
-   "location": "서울",
-   "source": "Wanted",
-   "url": "https://www.wanted.co.kr/wd/395246",
-   "deadline": "2026-11-15",
    "notes": "",
    "work_type": "국내"
   },
@@ -1165,17 +1176,6 @@
    "deadline": "미표기",
    "notes": "",
    "work_type": "리모트"
-  },
-  {
-   "company": "우리엔",
-   "title": "[중견 계열사] QA 엔지니어(계약직)",
-   "experience": "5~10년",
-   "location": "경기 화성시",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/55299837",
-   "deadline": "2026-11-15",
-   "notes": "Amazon EMR, Jira, MSSQL, MySQL, Playwright",
-   "work_type": "국내"
   },
   {
    "company": "Current",
