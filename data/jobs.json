@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-17 12:15 KST",
- "total": 123,
+ "updated_at": "2026-11-18 11:38 KST",
+ "total": 124,
  "jobs": [
   {
    "company": "카카오",
@@ -375,14 +375,14 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "핀다",
-   "title": "[핀다] QA 엔지니어",
-   "experience": "4~7년",
-   "location": "서울 강남구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/55592327",
-   "deadline": "2026-12-16",
-   "notes": "Confluence, Figma, Jira, Postman, Python",
+   "company": "에스케이그룹 (SK)",
+   "title": "[SK biotek] SK바이오텍 Microbiology QA Specialist",
+   "experience": "공고 참조",
+   "location": "세종",
+   "source": "Wanted",
+   "url": "https://www.wanted.co.kr/wd/398851",
+   "deadline": "2026-12-07",
+   "notes": "",
    "work_type": "국내"
   },
   {
@@ -646,17 +646,6 @@
    "source": "Wanted",
    "url": "https://www.wanted.co.kr/wd/391782",
    "deadline": "2026-11-30",
-   "notes": "",
-   "work_type": "국내"
-  },
-  {
-   "company": "센트비(Sentbe)",
-   "title": "SentBiz QA",
-   "experience": "공고 참조",
-   "location": "서울",
-   "source": "Wanted",
-   "url": "https://www.wanted.co.kr/wd/390727",
-   "deadline": "2026-11-18",
    "notes": "",
    "work_type": "국내"
   },
@@ -1075,7 +1064,7 @@
    "source": "기업 채용페이지 (Greenhouse)",
    "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
    "deadline": "상시",
-   "notes": "2026-10-08 업데이트",
+   "notes": "2026-11-17 업데이트",
    "work_type": "국내"
   },
   {
@@ -1088,6 +1077,28 @@
    "deadline": "미표기",
    "notes": "",
    "work_type": "리모트"
+  },
+  {
+   "company": "핀다",
+   "title": "[핀다] QA 엔지니어",
+   "experience": "4~7년",
+   "location": "서울 강남구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/55592327",
+   "deadline": "2026-12-16",
+   "notes": "Confluence, Figma, Jira, Postman, Python",
+   "work_type": "국내"
+  },
+  {
+   "company": "센트비(Sentbe)",
+   "title": "SentBiz QA",
+   "experience": "공고 참조",
+   "location": "서울",
+   "source": "Wanted",
+   "url": "https://www.wanted.co.kr/wd/390727",
+   "deadline": "2026-11-18",
+   "notes": "",
+   "work_type": "국내"
   },
   {
    "company": "우리엔",
