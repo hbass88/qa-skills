@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-18 11:38 KST",
- "total": 124,
+ "updated_at": "2026-11-19 11:05 KST",
+ "total": 123,
  "jobs": [
   {
    "company": "카카오",
@@ -373,6 +373,50 @@
    "notes": "아시아·유럽 분산 팀의 Playwright 기반 QA 자동화",
    "work_type": "리모트",
    "verified": "2026-08-18"
+  },
+  {
+   "company": "kakao mobility",
+   "title": "[공동체] 카카오모빌리티 QA 엔지니어",
+   "experience": "-",
+   "location": "판교",
+   "source": "기업 채용페이지",
+   "url": "https://careers.kakao.com/jobs/S-4732",
+   "deadline": "상시",
+   "notes": "카카오 공식 채용 API 수집",
+   "work_type": "국내"
+  },
+  {
+   "company": "Coupang",
+   "title": "Senior Customer Service Quality Assurance Specialist",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317393",
+   "deadline": "상시",
+   "notes": "2026-11-10 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
+   "title": "Senior Manager, CS QA & Performance Management",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317551",
+   "deadline": "상시",
+   "notes": "2026-11-10 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Moloco",
+   "title": "QA Engineer (1-Year Contract)",
+   "experience": "공고 참조",
+   "location": "Seoul, Korea",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
+   "deadline": "상시",
+   "notes": "2026-11-17 업데이트",
+   "work_type": "국내"
   },
   {
    "company": "에스케이그룹 (SK)",
@@ -1024,50 +1068,6 @@
    "work_type": "국내"
   },
   {
-   "company": "kakao mobility",
-   "title": "[공동체] 카카오모빌리티 QA 엔지니어",
-   "experience": "-",
-   "location": "판교",
-   "source": "기업 채용페이지",
-   "url": "https://careers.kakao.com/jobs/S-4732",
-   "deadline": "상시",
-   "notes": "카카오 공식 채용 API 수집",
-   "work_type": "국내"
-  },
-  {
-   "company": "Coupang",
-   "title": "Senior Customer Service Quality Assurance Specialist",
-   "experience": "공고 참조",
-   "location": "Taipei, Taiwan",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317393",
-   "deadline": "상시",
-   "notes": "2026-11-10 업데이트",
-   "work_type": "해외"
-  },
-  {
-   "company": "Coupang",
-   "title": "Senior Manager, CS QA & Performance Management",
-   "experience": "공고 참조",
-   "location": "Taipei, Taiwan",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317551",
-   "deadline": "상시",
-   "notes": "2026-11-10 업데이트",
-   "work_type": "해외"
-  },
-  {
-   "company": "Moloco",
-   "title": "QA Engineer (1-Year Contract)",
-   "experience": "공고 참조",
-   "location": "Seoul, Korea",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
-   "deadline": "상시",
-   "notes": "2026-11-17 업데이트",
-   "work_type": "국내"
-  },
-  {
    "company": "Come and See",
    "title": "QA Automation Engineer",
    "experience": "공고 참조",
@@ -1087,17 +1087,6 @@
    "url": "https://jumpit.saramin.co.kr/position/55592327",
    "deadline": "2026-12-16",
    "notes": "Confluence, Figma, Jira, Postman, Python",
-   "work_type": "국내"
-  },
-  {
-   "company": "센트비(Sentbe)",
-   "title": "SentBiz QA",
-   "experience": "공고 참조",
-   "location": "서울",
-   "source": "Wanted",
-   "url": "https://www.wanted.co.kr/wd/390727",
-   "deadline": "2026-11-18",
-   "notes": "",
    "work_type": "국내"
   },
   {
