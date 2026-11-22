@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21 10:50 KST",
+ "updated_at": "2026-11-22 09:44 KST",
  "total": 123,
  "jobs": [
   {
@@ -417,6 +417,17 @@
    "deadline": "상시",
    "notes": "2026-11-20 업데이트",
    "work_type": "국내"
+  },
+  {
+   "company": "Upgrade",
+   "title": "Senior QA Automation Developer (Platform)",
+   "experience": "공고 참조",
+   "location": "풀리모트 (Anywhere in the World)",
+   "source": "WeWorkRemotely",
+   "url": "https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-developer-platform",
+   "deadline": "미표기",
+   "notes": "",
+   "work_type": "리모트"
   },
   {
    "company": "Upgrade",
@@ -1242,17 +1253,6 @@
    "deadline": "미표기",
    "notes": "",
    "work_type": "리모트"
-  },
-  {
-   "company": "팬딩",
-   "title": "QA 엔지니어",
-   "experience": "3~7년",
-   "location": "서울 강남구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/55357060",
-   "deadline": "2026-11-21",
-   "notes": "QA, SW, Infra",
-   "work_type": "국내"
   },
   {
    "company": "Proxify AB",
