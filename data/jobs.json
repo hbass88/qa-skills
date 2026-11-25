@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-24 14:01 KST",
- "total": 124,
+ "updated_at": "2026-11-25 12:50 KST",
+ "total": 125,
  "jobs": [
   {
    "company": "카카오",
@@ -417,6 +417,17 @@
    "deadline": "상시",
    "notes": "2026-11-20 업데이트",
    "work_type": "국내"
+  },
+  {
+   "company": "Storyblok",
+   "title": "Senior QA Engineer - Europe",
+   "experience": "공고 참조",
+   "location": "풀리모트 (Anywhere in the World)",
+   "source": "WeWorkRemotely",
+   "url": "https://weworkremotely.com/remote-jobs/storyblok-senior-qa-engineer-europe",
+   "deadline": "미표기",
+   "notes": "",
+   "work_type": "리모트"
   },
   {
    "company": "Upgrade",
