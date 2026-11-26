@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-25 12:50 KST",
- "total": 125,
+ "updated_at": "2026-11-26 12:15 KST",
+ "total": 127,
  "jobs": [
   {
    "company": "카카오",
@@ -387,13 +387,13 @@
   },
   {
    "company": "Coupang",
-   "title": "Senior Customer Service Quality Assurance Specialist",
+   "title": "Manager, Customer Service Quality Assurance",
    "experience": "공고 참조",
    "location": "Taipei, Taiwan",
    "source": "기업 채용페이지 (Greenhouse)",
    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317393",
    "deadline": "상시",
-   "notes": "2026-11-10 업데이트",
+   "notes": "2026-11-25 업데이트",
    "work_type": "해외"
   },
   {
@@ -404,7 +404,7 @@
    "source": "기업 채용페이지 (Greenhouse)",
    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317551",
    "deadline": "상시",
-   "notes": "2026-11-10 업데이트",
+   "notes": "2026-11-25 업데이트",
    "work_type": "해외"
   },
   {
@@ -415,8 +415,30 @@
    "source": "기업 채용페이지 (Greenhouse)",
    "url": "https://job-boards.greenhouse.io/moloco/jobs/8003052003",
    "deadline": "상시",
-   "notes": "2026-11-20 업데이트",
+   "notes": "2026-11-25 업데이트",
    "work_type": "국내"
+  },
+  {
+   "company": "Moloco",
+   "title": "QA Engineer Intern (3-month Internship)",
+   "experience": "공고 참조",
+   "location": "Seoul, Korea",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/moloco/jobs/8215108003",
+   "deadline": "상시",
+   "notes": "2026-11-25 업데이트",
+   "work_type": "국내"
+  },
+  {
+   "company": "Oddball",
+   "title": "QA/Test Engineer",
+   "experience": "공고 참조",
+   "location": "풀리모트 (USA Only)",
+   "source": "WeWorkRemotely",
+   "url": "https://weworkremotely.com/remote-jobs/oddball-qa-test-engineer",
+   "deadline": "미표기",
+   "notes": "",
+   "work_type": "리모트"
   },
   {
    "company": "Storyblok",
