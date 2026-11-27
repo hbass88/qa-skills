@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-26 12:15 KST",
- "total": 127,
+ "updated_at": "2026-11-27 12:19 KST",
+ "total": 128,
  "jobs": [
   {
    "company": "카카오",
@@ -428,6 +428,17 @@
    "deadline": "상시",
    "notes": "2026-11-25 업데이트",
    "work_type": "국내"
+  },
+  {
+   "company": "Welo Data",
+   "title": "Crux - Video and Audio QA - English (US)",
+   "experience": "공고 참조",
+   "location": "풀리모트 (USA Only)",
+   "source": "WeWorkRemotely",
+   "url": "https://weworkremotely.com/remote-jobs/welo-data-crux-video-and-audio-qa-english-us",
+   "deadline": "미표기",
+   "notes": "",
+   "work_type": "리모트"
   },
   {
    "company": "Oddball",
