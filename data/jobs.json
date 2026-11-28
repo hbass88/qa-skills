@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-27 12:19 KST",
- "total": 128,
+ "updated_at": "2026-11-28 11:58 KST",
+ "total": 129,
  "jobs": [
   {
    "company": "카카오",
@@ -428,6 +428,17 @@
    "deadline": "상시",
    "notes": "2026-11-25 업데이트",
    "work_type": "국내"
+  },
+  {
+   "company": "Truelogic Software",
+   "title": "Senior QA Automation Engineer - Real Estate",
+   "experience": "공고 참조",
+   "location": "풀리모트 (Latin America Only)",
+   "source": "WeWorkRemotely",
+   "url": "https://weworkremotely.com/remote-jobs/truelogic-software-senior-qa-automation-engineer-real-estate",
+   "deadline": "미표기",
+   "notes": "",
+   "work_type": "리모트"
   },
   {
    "company": "Welo Data",
